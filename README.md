@@ -3,6 +3,10 @@
 A modern and responsive **Language Translator Web App** built using **React + Tailwind CSS**.  
 It allows users to translate English text into multiple languages with a clean UI and smooth user experience.
 
+## 🔗 Live Demo
+
+👉 [https://your-vercel-link.vercel.app](https://languagetranslator-roan.vercel.app/)
+
 ---
 
 ## Features
