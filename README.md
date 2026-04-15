@@ -1,16 +1,50 @@
-# React + Vite
+# Language Translator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Language Translator Web App** built using **React + Tailwind CSS**.  
+It allows users to translate English text into multiple languages with a clean UI and smooth user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Translate text into multiple languages
+- Clean and modern UI 
+- Fully responsive (Mobile + Desktop)
+- Real-time translation using API
+- Copy translated text with one click
+- Smooth animations & typing effect
+- User-friendly UX (no alerts, inline messages)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (Frontend)
+- Tailwind CSS (Styling)
+- MyMemory Translation API
+- Vite (Build tool)
+
+---
+
+## 📸 Preview
+
+![App view](image.png)
+---
+### API Used
+- This project uses the MyMemory Translation API for demonstration purposes.
+- Note: This API is used for learning and demo.
+
+For production-level applications, more accurate APIs like Google Translate or Microsoft Translator can be used.
+
+### Future Improvements
+- Auto language detection
+- Voice input support
+- Dark mode toggle
+- Translation history
+- Better API integration
+
+### Acknowledgements
+Built to explore:
+- API integration
+- React fundamentals
+- UI/UX design principles
